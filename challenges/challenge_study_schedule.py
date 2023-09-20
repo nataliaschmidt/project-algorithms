@@ -13,4 +13,4 @@ def study_schedule(permanence_period, target_time):
     raise NotImplementedError
 
 
-print(study_schedule([(2, 2), (1, 2), (2, 3), (1, 5), (4, 5), (4, 5)], 2))
+# print(study_schedule([(2, 2), (1, 2), (2, 3), (1, 5), (4, 5), (4, 5)], 2))
