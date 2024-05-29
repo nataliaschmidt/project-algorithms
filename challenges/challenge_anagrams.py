@@ -46,4 +46,4 @@ def is_anagram(first_string, second_string):
     raise NotImplementedError
 
 
-print(is_anagram("", "perda"))
+print(is_anagram("", ""))
